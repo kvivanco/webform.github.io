@@ -1,0 +1,55 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+
+#form .controls label.error{
+    color:rgba(255,60,8,1.00);
+	position:absolute;
+    font-size:15px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+/*
+input:focus:invalid {
+  outline: none;
+}
+input:invalid:focus{
+	color:rgba(255,60,8,1.00);
+	outline:none;
+	border: 1px;
+	box-shadow: 0 0 0px 0px red;
+}
+	/*	
+#form .radio label.error{
+    color: #FB3A3A;
+    display:block;
+    margin: 4px 0 5px 125px;
+    padding: 0;
+    text-align:left;
+    width: 220px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+*/
+
+.form input[type="submit"]:hover, 
+.form input[type="button"]:hover{ 
+    background:#0DEFAC; 
+   
+} 
+
+
+div h4{
+	font-size:x-large;
+	color:#00b389;
+	text-align:center;
+	padding:0;
+	
+	
+
+}
+
+	
+	
